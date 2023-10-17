@@ -1,3 +1,3 @@
 # Notes
-some notes self-study
+some notes self-study ... <br>
 Be a lifelong learner!
